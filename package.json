@@ -1,0 +1,25 @@
+{
+  "name": "kr222if_2dv515_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosaKasem/kr222if_2dv515_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosaKasem/kr222if_2dv515_project/issues"
+  },
+  "homepage": "https://github.com/MosaKasem/kr222if_2dv515_project#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemon": "^2.0.2",
+    "request-promise": "^4.2.5"
+  }
+}
